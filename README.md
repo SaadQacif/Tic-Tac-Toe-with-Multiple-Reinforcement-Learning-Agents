@@ -105,9 +105,4 @@ Edge cases and tips:
 
 ## Contributing
 
-Contributions are welcome. Small, focused PRs are easiest to review. Suggested low-risk improvements:
-
-- Add a small test suite (pytest) for core environment behaviors (win detection, legal moves, agent move validity).
-- Add a lightweight CLI for batch experiments and reproducible output logging.
-- Add persistent model save/load for RL agents (currently the Flet UI stores models in-memory only).
-
+Contributions are welcome.
