@@ -1,0 +1,7 @@
+# Minimal dependencies for Tic Tac Toe AI Arena
+flet
+numpy
+matplotlib
+seaborn
+# Optional (only required for the Pygame GUI)
+pygame
